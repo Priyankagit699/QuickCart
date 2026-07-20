@@ -27,7 +27,7 @@ QuickCart is a responsive product-listing page built for a frontend development 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/quickcart.git
+   git clone https://github.com/Priyankagit699/QuickCart.git
    ```
 
 2. Open the project folder:
@@ -61,7 +61,7 @@ npm start
 
 ## Live Demo
 
-[View the QuickCart live demo](https://your-quickcart-demo.vercel.app)
+[View the QuickCart live demo](https://quick-cart-xi.vercel.app/)
 
 Replace the placeholder above with the final Vercel URL after deployment.
 
