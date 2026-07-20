@@ -61,9 +61,9 @@ npm start
 
 ## Live Demo
 
-[View the QuickCart live demo](https://quick-cart-xi.vercel.app/)
+- **Live Application:** https://quick-cart-xi.vercel.app/
+- **GitHub Repository:** https://github.com/Priyankagit699/QuickCart
 
-Replace the placeholder above with the final Vercel URL after deployment.
 
 ## Testing Approach
 
